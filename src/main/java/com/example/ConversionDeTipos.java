@@ -1,7 +1,6 @@
 package com.example;
 
 public class ConversionDeTipos {
-<<<<<<< HEAD
 
     public static void demostrarCastingImplicitito() {
         System.out.println("=== CASTING IMPLÍCITO (Widening) ===");
@@ -60,17 +59,5 @@ public class ConversionDeTipos {
         float menorPrecision = (float) preciso;
         System.out.println("double: " + preciso);
         System.out.println("float:  " + menorPrecision + " (menos decimales)");
-=======
-    public static void demostrarCastingImplicitito() {
-        // TODO
-    }
-
-    public static void demostrarCastingExplicito() {
-        // TODO
-    }
-
-    public static void demostrarProblemasDePrecision() {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

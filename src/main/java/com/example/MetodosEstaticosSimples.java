@@ -1,7 +1,6 @@
 package com.example;
 
 public class MetodosEstaticosSimples {
-<<<<<<< HEAD
 
     public static void ejemploDeclaracionLlamada() {
         System.out.println("=== DECLARACIÓN Y LLAMADA DE MÉTODOS ===");
@@ -61,26 +60,5 @@ public class MetodosEstaticosSimples {
         for (int i = 1; i <= 5; i++) {
             System.out.println("  " + n + " x " + i + " = " + (n * i));
         }
-=======
-    public static void ejemploDeclaracionLlamada() {
-        // TODO
-    }
-
-    public static void ejemploPasoParametros(String nombre) {
-        // TODO
-    }
-
-    public static int ejemploRetornoValores() {
-        // TODO
-        return 0;
-    }
-
-    public static void ejemploSobrecarga() {
-        // TODO
-    }
-
-    public static void ejemploSobrecarga(int n) {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

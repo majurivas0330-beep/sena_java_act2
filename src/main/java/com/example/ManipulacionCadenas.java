@@ -1,7 +1,6 @@
 package com.example;
 
 public class ManipulacionCadenas {
-<<<<<<< HEAD
 
     /**
      * Demuestra distintas formas de concatenar cadenas en Java.
@@ -135,21 +134,5 @@ public class ManipulacionCadenas {
         System.out.println("\nTiempo con String (+=): " + (finString - inicio) / 1_000_000.0 + " ms");
         System.out.println("Tiempo con StringBuilder: " + (finBuilder - finString) / 1_000_000.0 + " ms");
         System.out.println("StringBuilder suele ser notablemente más rápido en bucles grandes.");
-=======
-    public static void demostrarConcatenacion() {
-        // TODO
-    }
-
-    public static void demostrarMetodosUtiles() {
-        // TODO
-    }
-
-    public static void demostrarInmutabilidad() {
-        // TODO
-    }
-
-    public static void usarStringBuilder() {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

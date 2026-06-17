@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class ManejoBasicoExcepciones {
 
-<<<<<<< HEAD
     /**
      * Demuestra el manejo de la excepción ArithmeticException
      * que ocurre al intentar dividir un número entero entre cero.
@@ -102,21 +101,5 @@ public class ManejoBasicoExcepciones {
 
         System.out.println("\nEl programa terminó de procesar TODOS los datos "
                 + "sin cerrarse abruptamente, gracias al manejo de excepciones.");
-=======
-    public static void ejemploTryCatchDivision() {
-        // TODO
-    }
-
-    public static void ejemploTryCatchInput() {
-        // TODO
-    }
-
-    public static void ejemploBloqueFinally() {
-        // TODO
-    }
-
-    public static void evitarCierrePrograma() {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

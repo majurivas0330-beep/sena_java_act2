@@ -1,7 +1,6 @@
 package com.example;
 
 public class VariablesYConstantes {
-<<<<<<< HEAD
 
     public static void demostrarDeclaracionAsignacion() {
         int edad = 18;
@@ -42,37 +41,5 @@ public class VariablesYConstantes {
 
         // PI = 3.1899; // ERROR: no se puede reasignar una constante final
         System.out.println("(Intentar reasignar 'final' genera error de compilación)");
-=======
-    public static void demostrarDeclaracionAsignacion() {        
-        // TODO
-        int edad = 18;
-        double estatura = 1.75;
-        System.out.println(edad); 
-        System.out.println(estatura); 
-
-    }
-
-    public static void demostrarConvencionesNombres() {
-        // TODO
-         int edadPermitida = 20;
-         int edadNoPermitida = -15;
-
-         System.out.println("La edad permitida es" + edadPermitida);
-         System.out.println("La edad no permitida es" + edadNoPermitida);
-      
-    }
-
-    public static void demostrarConstantes() {
-        // TODO
-        final double PI = 3.14159265358979323846;
-        
-        PI = 3.1899;
-
-        System.out.println("El valor de PI es:" + PI);
-
-        // Este es el error que aparece a la hora de asignarle otro valor:
-        //Exception in thread "main" java.lang.Error: Unresolved compilation problem: Duplicate local variable PI
-  
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

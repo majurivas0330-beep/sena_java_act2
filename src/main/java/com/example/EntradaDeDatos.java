@@ -3,7 +3,6 @@ package com.example;
 import java.util.Scanner;
 
 public class EntradaDeDatos {
-<<<<<<< HEAD
 
     public static void leerVariosTipos() {
         Scanner sc = new Scanner(System.in);
@@ -42,15 +41,8 @@ public class EntradaDeDatos {
         System.out.println("Nombre ingresado: " + nombreCompleto);
 
         System.out.println("\nNota: si hubiéramos llamado a nextLine() " +
-                "justo después de nextInt() sin limpiar el buffer, " +
-                "nombreCompleto habría quedado vacío.");
-=======
-    public static void leerVariosTipos() {
-        // TODO
-    }
+            "justo después de nextInt() sin limpiar el buffer, " +
+            "nombreCompleto habría quedado vacío.");
 
-    public static void manejarSaltoDeLineaPendiente() {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
-    }
+    } 
 }

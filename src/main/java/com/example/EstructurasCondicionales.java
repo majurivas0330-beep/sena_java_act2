@@ -1,7 +1,6 @@
 package com.example;
 
 public class EstructurasCondicionales {
-<<<<<<< HEAD
 
     public static void ejemploIf() {
         System.out.println("=== IF SIMPLE ===");
@@ -85,25 +84,5 @@ public class EstructurasCondicionales {
         };
 
         System.out.println("Estación: " + estacion + " → " + descripcion);
-=======
-    public static void ejemploIf() {
-        // TODO
-    }
-
-    public static void ejemploIfElse() {
-        // TODO
-    }
-
-    public static void ejemploIfElseIfElse() {
-        // TODO
-    }
-
-    public static void ejemploSwitch() {
-        // TODO
-    }
-
-    public static void ejemploSwitchExpression() {
-        // TODO
->>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }
