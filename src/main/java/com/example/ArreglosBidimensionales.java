@@ -1,6 +1,7 @@
 package com.example;
 
 public class ArreglosBidimensionales {
+<<<<<<< HEAD
     
     public static void declararCrearMatrices() {
         // Forma 1: declarar y crear con tamaño fijo (valores por defecto en 0)
@@ -151,5 +152,17 @@ public class ArreglosBidimensionales {
             }
             System.out.println();
         }
+=======
+    public static void declararCrearMatrices() {
+        // TODO
+    }
+
+    public static void recorrerMatriz() {
+        // TODO
+    }
+
+    public static void ejemploUsosTipicos() {
+        // TODO
+>>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

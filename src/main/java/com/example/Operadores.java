@@ -1,6 +1,7 @@
 package com.example;
 
 public class Operadores {
+<<<<<<< HEAD
 
     public static void demostrarAritmeticos() {
         System.out.println("=== OPERADORES ARITMÉTICOS ===");
@@ -79,5 +80,29 @@ public class Operadores {
         int a = 42, b = 99;
         int mayor = (a > b) ? a : b;
         System.out.println("Mayor entre " + a + " y " + b + ": " + mayor);
+=======
+    public static void demostrarAritmeticos() {
+        // TODO
+    }
+
+    public static void demostrarIncrementoDecremento() {
+        // TODO
+    }
+
+    public static void demostrarRelacionales() {
+        // TODO
+    }
+
+    public static void demostrarLogicos() {
+        // TODO
+    }
+
+    public static void demostrarAsignacionCompuesta() {
+        // TODO
+    }
+
+    public static void demostrarOperadorTernario() {
+        // TODO
+>>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }

@@ -1,6 +1,7 @@
 package com.example;
 
 public class EstructurasDeRepeticion {
+<<<<<<< HEAD
 
     public static void ejemploWhile() {
         System.out.println("=== WHILE ===");
@@ -90,5 +91,29 @@ public class EstructurasDeRepeticion {
                 System.out.println("  i=" + i + ", j=" + j);
             }
         }
+=======
+    public static void ejemploWhile() {
+        // TODO
+    }
+
+    public static void ejemploDoWhile() {
+        // TODO
+    }
+
+    public static void ejemploForClasico() {
+        // TODO
+    }
+
+    public static void ejemploForAnidado() {
+        // TODO
+    }
+
+    public static void ejemploBreakContinue() {
+        // TODO
+    }
+
+    public static void ejemploEtiquetas() {
+        // TODO
+>>>>>>> 91f4b12783edb2ea8d3dcc67a0174c46fc8ae5cc
     }
 }
